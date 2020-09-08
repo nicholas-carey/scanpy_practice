@@ -1,6 +1,6 @@
 # Scanpy Tutorials
 
-Here is where I am practice using scanpy utilizing their online tutorials.
+Here is where I am practicing scanpy. I am  utilizing their [online tutorials](https://scanpy.readthedocs.io/en/latest/tutorials.html).
 
 Jupyter Notebooks:
 
