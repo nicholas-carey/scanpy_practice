@@ -5,3 +5,4 @@ Here is where I am practicing scanpy. I am  utilizing their [online tutorials](h
 Jupyter Notebooks:
 
 - [Preprocessing and Clustering 3k PBMCs](./Clustering/clustering_tutorial.ipynb)
+- [Core Plotting Functions](./Plotting/plotting_tutorial.ipynb)
